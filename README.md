@@ -9,4 +9,4 @@ The model is based on ResNet-152, which is a deep CNN, which uses residual learn
 
 The final classification outputs map to five categories: **'No DR', 'Mild', 'Moderate', 'Severe', 'Proliferative DR'**.
 
-![Alt text](RetinaLabels.jpg)
+![Retina Labels image](RetinaLabels.jpg)
