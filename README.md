@@ -8,3 +8,5 @@ APTOS 2019 Blindness Dataset from Kaggle
 The model is based on ResNet-152, which is a deep CNN, which uses residual learning via skip connections. We have used a custom classifier - a **Linear** layer that maps ResNet's output to 512 features, and a **ReLu** activation, another **Linear** layer to reduce output to 5 classes followed by a **LogSoftMax** layer to produce class probabilities. 
 
 The final classification outputs map to five categories: **'No DR', 'Mild', 'Moderate', 'Severe', 'Proliferative DR'**.
+
+![Alt text](RetinaLabels.jpg)
